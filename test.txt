@@ -1,6 +1,3 @@
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
+>>git add .
+>>git commit -m  "file"
+>>git push
